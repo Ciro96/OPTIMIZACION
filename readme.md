@@ -1,7 +1,7 @@
 # TPS DE OPTIMIZACION 
 
   # TP1
-  ejemplo de regresión simple
+  El objetivo fue minimizar el error entre una serie de puntos Y y un modelo de la forma f(alfa,X). 
   - cuadrados mínimos y metodo de gauss-newton
 
   # TP2- CURVA BRAQUISTOCRONA
