@@ -9,7 +9,7 @@
   - metodo de newton, descenso más rapido con busqueda lineal (armijo,wolfe, goldstein,razon aurea)
   
 # SCRIPS DE CALCULO NUMERICO
-  - hauseholder
+  - householder
   - Lu
   - euler, euler vectorial
   - ecuacion del calor
