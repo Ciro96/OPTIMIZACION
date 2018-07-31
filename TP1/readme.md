@@ -1,2 +1,3 @@
+# TP1
 
-explicación del TP1 en tp1-de-optimizacion.pdf
+El objetivo fue minimizar el error entre una serie de puntos Y y un modelo de la forma f(alfa,X). Utilizo cuaraos mínimos y el método de Gauss-Newton.
