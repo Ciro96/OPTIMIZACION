@@ -1,2 +1,4 @@
+# TP2-CURVA BRAQUISTOCRONA
 
-explicación del TP2 en tp2-de-optimizaci(1).pdf
+El objetivo fue encontrar la curva que minimiza el tiempo de caida de una partícula por efecto de la gravedad desde un punto A hasta un punto B. La idea consiste en discretizar un funcional apropiado y aplicar técnicas de optimización sin restricciones.
+
